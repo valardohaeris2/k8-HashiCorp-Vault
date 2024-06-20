@@ -86,7 +86,7 @@ spec:
 EOF
 ```
 
-2. Create an `override-values.yaml`
+5. Create an `override-values.yaml`
 
 ```
 global:
