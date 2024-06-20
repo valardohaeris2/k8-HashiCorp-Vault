@@ -86,6 +86,10 @@ spec:
 EOF
 ```
 
+3. Insert stuff and thangs here
+
+4. Insert stuff and thangs here
+
 5. Create an `override-values.yaml`
    This override config enables TLS and configures 5 replicas of the Vault server
 
