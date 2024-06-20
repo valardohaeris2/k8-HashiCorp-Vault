@@ -1,8 +1,13 @@
 # HashiCorp Vault Enterprise on Kubernetes (minikube) using TLS & Raft Integrated Storage
 
-Vault w/ Integrated storage & TLS on minikube
+## Pre-Reqs:
 
-# 🏗️ Workflow 🏗️
+- Helm CLI
+- Minikube
+- Vault Enterprise License
+- openssl
+
+# 🏗️ Workflow (under construction) 🏗️
 
 1. Add the Helm repo for HashiCorp
 
