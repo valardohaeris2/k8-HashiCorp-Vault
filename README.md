@@ -87,6 +87,7 @@ EOF
 ```
 
 5. Create an `override-values.yaml`
+   This override config enables TLS and configures 5 replicas of the Vault server
 
 ```
 global:
