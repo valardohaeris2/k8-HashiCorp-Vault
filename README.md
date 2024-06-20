@@ -1,4 +1,4 @@
-# k8-HashiCorp-Vault
+# HashiCorp Vault Enterprise on Kubernetes (minikube) using TLS & Raft Integrated Storage
 
 Vault w/ Integrated storage & TLS on minikube
 
